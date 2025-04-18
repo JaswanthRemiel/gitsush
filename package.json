@@ -1,0 +1,9 @@
+{
+  "name": "gitsushh",
+  "version": "1.0.1",
+  "bin": {
+    "gshh": "./index.js"
+  },
+  "keywords": ["git", "shortcut", "productivity"],
+  "license": "MIT"
+}
