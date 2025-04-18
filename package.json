@@ -1,6 +1,6 @@
 {
-  "name": "gitsushh",
-  "version": "1.0.1",
+  "name": "gitsush",
+  "version": "2.0.0",
   "bin": {
     "gshh": "./index.js"
   },
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
   "type": "git",
-  "url": "https://github.com/jaswanthremiel/gitsushh.git"
+  "url": "https://github.com/jaswanthremiel/gitsush.git"
 }
   
 }
