@@ -30,7 +30,7 @@ gshh "Updated stuff" "file1.js file2.css utils.py"
 
 ## Why Use GitSush?
 
-✔ One command to rule them all – No more typing three separate Git commands like a caveman.  
+✔ One command to rule them all – No more typing three separate Git commands like a caveman(old).  
 ✔ Saves your fingers – Fewer keystrokes = more energy for coffee.  
 ✔ Fun & colorful output – Because terminal logs should be exciting!  
 ✔ Perfect for lazy devs – Admit it, you’d rather automate everything.
