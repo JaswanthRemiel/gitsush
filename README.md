@@ -1,7 +1,7 @@
-# GitSush - The Sushi Chef for Your Git Repos 🍣
+# GitSush - The Sushi Chef for Your Git Repos.
 
 Tired of typing `git add`, `git commit`, `git push` like a peasant?  
-Let `gshh` handle your Git workflow like a sushi chef level fast, precise, and deliciously efficient!
+Let `gshh` handle your Git workflow like a sushi chef fast, precise, and deliciously efficient!
 
 ## Installation
 Get your Git sushi roll ready with:
@@ -17,19 +17,16 @@ npm install -g gitsush
 ```bash
 gshh "Your commit message" .
 ```
-_"Here, chef! Do your magic with all my files!"_
 
 ### Specialty Roll (Commit & Push Specific Files)
 ```bash
 gshh "Fixed the nasty bug" src/buggyfile.js
 ```
-_"Just this file, chef. Make it perfect."_
 
 ### Combo Platter (Multiple Files)
 ```bash
 gshh "Updated stuff" "file1.js file2.css utils.py"
 ```
-_"A little bit of everything, chef. Surprise me!"_
 
 ## Why Use GitSush?
 
@@ -54,7 +51,7 @@ gshh "Made the button less ugly" src/Button.js
 ## FAQ (Frequently Asked Quirks)
 
 **Q: Why "gshh"?**  
-A: Because `git-shush` was too long, and `gshh` sounds like you’re telling Git to "shhh, just do it."
+A: Because `git-sush` was too long, and `gshh` sounds like you’re telling Git to "shhh, just do it."
 
 **Q: Does it work with branches?**  
 A: It pushes to your current branch. If you need more control, maybe learn Git properly. (Just kidding… but not really.)
@@ -73,5 +70,5 @@ MIT – Do whatever, just don’t blame me if your commits get weird.
 
 ---
 
-🍣 **Happy committing!**  
-🚀 **Ship it like a pro with `gshh`!**
+**Happy committing!**  
+**Ship it like a pro with `gshh`!**
